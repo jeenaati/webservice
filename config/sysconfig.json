@@ -1,0 +1,10 @@
+{
+    "sql": {
+        "user": "sa",
+        "password": "P@s$w0rd@1",
+        "server": "10.XX.6.XXX",
+        "database": "XXX",
+        "encrypt": false,
+        "trustServerCertificate": true
+      }
+}
