@@ -170,7 +170,7 @@ app.get('/productAll', async (req, res) => {
         console.log(error)
         return res.status(200).send({
             Status: false,
-            Message: "internal server error"
+            Message: "internal server error."
         });
     }
 });
